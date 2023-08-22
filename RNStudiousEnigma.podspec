@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "11.0"
   s.source       = { :git => "https://github.com/dorislynch/react-native-studious-enigma.git", :tag => "master" }
 
-  s.source_files = "ios/*.{h,m}"
+  s.source_files = "ios/*.{h,m,mm}"
   s.requires_arc = true
   s.preserve_paths = 'README.md', 'package.json', 'index.js'
 
