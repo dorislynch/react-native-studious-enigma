@@ -1,0 +1,27 @@
+{
+    "name": "react-native-studious-enigma",
+    "version": "1.0.0",
+    "description": "this is designed for shiny",
+    "homepage": "https://github.com/dorislynch/react-native-studious-enigma",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-studious-enigma"
+    ],
+    "author": {
+      "name": "fluffy",
+      "email": "fluffy@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dorislynch/react-native-studious-enigma.git"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    }
+  }
+  
