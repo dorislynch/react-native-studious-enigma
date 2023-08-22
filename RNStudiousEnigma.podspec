@@ -21,6 +21,13 @@ Pod::Spec.new do |s|
 
   s.dependency 'React'
   s.dependency 'React-Core'
+  s.dependency "React-cxxreact"
+  s.dependency "React-perflogger"
+  s.dependency "React-jsi"
+  s.dependency "React-jsiexecutor"
+  s.dependency "React-utils"
+  s.dependency "React-runtimeexecutor"
+
   s.dependency 'JJException'
 
 end
