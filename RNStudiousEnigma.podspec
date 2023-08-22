@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.source_files = "ios/*.{h,m,mm}"
   s.requires_arc = true
   s.preserve_paths = 'README.md', 'package.json', 'index.js'
-  s.library = 'c++',
+  s.library = 'c++'
 
   s.dependency 'React'
   s.dependency 'JJException'
